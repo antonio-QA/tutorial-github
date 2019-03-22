@@ -9,6 +9,7 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Teste Commit no Github");
+		System.out.println("Teste desfazendo o commit");
 		
 		sc.close();
 
